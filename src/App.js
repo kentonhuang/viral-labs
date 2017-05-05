@@ -5,8 +5,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Viral Labs</h1>
-        <a href="http://viral-laboratories.com">Home</a>
+        <p className="title">VIRAL LABORATORIES</p>
       </div>
     );
   }

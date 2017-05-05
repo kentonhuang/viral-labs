@@ -1,0 +1,12 @@
+body {
+  background: black;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  color: white;
+  font-size: 40px;
+  padding-left: 20px;
+
+}
