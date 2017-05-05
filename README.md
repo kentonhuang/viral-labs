@@ -1,3 +1,4 @@
+|VIRAL|
 |------------------------------------------------------------------------|
 |VIRAL LABORATORIES IS RESEARCH.|
 |VIRAL LABORATORIES IS RESEARCH AND EXPLORATION.|
