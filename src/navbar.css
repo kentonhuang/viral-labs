@@ -1,0 +1,19 @@
+body {
+  padding-top: 10px;
+}
+
+a {
+  padding-left: 20px;
+  font-size: 17px;
+  color: rgb(239,45,94);
+  text-decoration: none;
+}
+
+a:hover {
+  color: white !important;
+}
+
+a:visited {
+  color: rgb(239,45,94);
+  text-decoration: none;
+}
